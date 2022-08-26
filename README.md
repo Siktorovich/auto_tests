@@ -9,7 +9,7 @@ Here are Selenium's methods that you can meet in tests:
 	get_attribute 
 
 Test runners that has used in work:
-	unittest (standart python's library)
+	unittest (standard python's library)
 	pytest
 
  
